@@ -12,13 +12,13 @@ cd skada-flutter
 ```
 
 ## Tugas 
-Pada pertemuan sebelumnya sudah ditampilkan bagaimana cara menggabungkan dua string dari input1 dan input2. 
-Sekarang coba ubah agar:
-  - Ubah hasil tombol menjadi penjumlahan kedua input tersebut, yang awalnya gabungan string dari kedua input
+Pada pertemuan sebelumnya sudah ditampilkan bagaimana cara menggabungkan dua string dari _**input1**_ dan _**input2**_. 
+Sekarang coba:
+  - Ubah hasil fungsi tombol dari menggabungkan text, menjadi penjumlahan angka antar kedua input tersebut
     
   - Buat repository baru untuk upload hasil kodingan dengan format nama
     
-  - ```bash
+    ```bash
     flutter_1_{No. Absen}
     ```
     
@@ -29,9 +29,13 @@ Sekarang coba ubah agar:
     ```
     
     - <remote_name>:
-      Dapat berupa nama apa saja, namun tak boleh sama dengan nama remote yang sudah terbuat (origin). ex: myRepo
+      
+      Dapat berupa nama apa saja, namun tak boleh sama dengan nama remote yang sudah terbuat yaitu "origin". 
+      
+      ex: myRepo
     - <remote_url>:
-      link repository yang telah dibuat di github, biasanya sudah tersedia saat membuat repo baru
+      
+      link repository yang telah dibuat di github, biasanya command tersebut sudah tersedia saat membuat repo baru
       
   - Lakukan tracking, committing, dan pushing ke repository:
     ```bash
@@ -40,5 +44,6 @@ Sekarang coba ubah agar:
     git push <remote_name> <branch_name>
     ```
 
-Sehabis selesai mengerjakan tugas, link github tugas dikumpul melalui google form yang telah diberikan. 
+Sehabis selesai mengerjakan tugas, link github dikumpul melalui google form yang telah diberikan. 
+
 
